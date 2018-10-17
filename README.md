@@ -1,2 +1,2 @@
-# My_Python_Practice
+# Python Practice
 To Improve Knowledge In Python  
