@@ -1,2 +1,2 @@
 # Python Practice
-To Improve Knowledge In Python  
+To Improve Python Knowledge
